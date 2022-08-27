@@ -1,0 +1,54 @@
+
+/* Universal style */
+* {
+  border-color: rgba(69, 69, 69)
+}
+
+/* Background */
+div._acum, main._a993._a995, footer._accr._acct._accu, 
+div._abnx._aeul, div._aa4j, div._abyk, div._ab8j._ab8l._ab8w._ab94._ab99._ab9h._ab9k._ab9o._ab9s._abcm, div._ab5z._ab5_, div._aa5c, div._ab8w._ab94._ab99._ab9h._ab9m._ab9p._ab9-._abaa._abcm, div._ab8w._ab94._ab97._ab9h._ab9m._ab9p._aba0._abac._abcm, div._acfk._acfl, div._ab8w._ab94._ab97._ab9f._ab9k._ab9p._ab9_._aba8._abcm:hover, a.qi72231t.nu7423ey.n3hqoq4p.r86q59rh.b3qcqh3k.fq87ekyn.bdao358l.fsf7x5fv.rse6dlih.s5oniofx.m8h3af8h.l7ghb35v.kjdc1dyq.kmwttqpk.srn514ro.oxkhqvkx.rl78xhln.nch0832m.cr00lzj9.rn8ck1ys.s3jn8y49.icdlwmnq._abm4._a6hd, div._abm4, div._aak3, div._aam1._aam2._aam5, div._aac4._aac5._aac6._aac7, div._ae2s._ae3w, article._ab6k._ab6l._ab6m._aatb._aatc._aate._aatf._aath._aati, div._ab8q._ab8w._ab94._ab99._ab9f._ab9m._ab9p._aba8._abcm, 
+div._aa5b, div._ab8w._ab94._ab99._ab9f._ab9m._ab9p._ab9_._abab._abcm, div._ab8w._ab94._ab97._ab9f._ab9k._ab9p._ab9_._aba8._abcm, div._aamm, div._aaiu._aaiw, div._aacl._aaco._aacw._adda._aacx._aad6, 
+div._aasi._aasj, header._aaqw, 
+article._ab6k._ab6l._ab6m._aatb._aatc._aate._aatf._aati, div._aasi, 
+div._ab8s._ab8w._ab94._ab99._ab9f._ab9m._ab9p._aba8._abcm, footer._accr._acct, div._ab8q._ab8w._ab94._ab99._ab9f._ab9m._ab9o._abab._abcm, div._ab8w._ab94._ab97._ab9f._ab9m._ab9p._abcm, div._aazw, div._ab8w._ab94._ab99._ab9f._ab9m._ab9p._ab9-._abaa._abcm, div._abn_, div._ac2w, div._ab8w._ab94._ab97._ab9h._ab9m._ab9p._abch._abcm, article._ab6k._ab6m._aatb._aatc._aate._aatf._aati, div._ab6k._ab6m._aa1x._ackf._ackh, div._aac4._aac5._aac6  {
+  background: black;
+}
+
+/* Logo colour */
+svg._ab6- {
+  color: rgb(209, 209, 209);
+  fill: rgb(209, 209, 209);
+}
+
+/* Text colour */
+h2._aacl._aacs._aact._aacx._aada, a.qi72231t.nu7423ey.n3hqoq4p.r86q59rh.b3qcqh3k.fq87ekyn.bdao358l.fsf7x5fv.rse6dlih.s5oniofx.m8h3af8h.l7ghb35v.kjdc1dyq.kmwttqpk.srn514ro.oxkhqvkx.rl78xhln.nch0832m.cr00lzj9.rn8ck1ys.s3jn8y49.icdlwmnq._acan._acap._acat._acaw._a6hd, span._aacl._aacp._aacw._adda._aacx._aad7._aade, div._aacl._aacp._aacu._aacx._aad6._aade, span._ac2a, a.qi72231t.nu7423ey.n3hqoq4p.r86q59rh.b3qcqh3k.fq87ekyn.bdao358l.fsf7x5fv.rse6dlih.s5oniofx.m8h3af8h.l7ghb35v.kjdc1dyq.kmwttqpk.srn514ro.oxkhqvkx.rl78xhln.nch0832m.cr00lzj9.rn8ck1ys.s3jn8y49.icdlwmnq._aak1._a6hd, div._aacl._aaco._aacu._aacx._aada, div._aacl._aaco._aacw._adda._aacx._aad6, div._aacl._aaco._aacu._aacx._aad6._aade, div._ab8y._ab94._ab97._ab9f._ab9k._ab9p._abcm, div._aacl._aaco._aacu._aacx._aad6, div._aacl._aaco._aacw._adda._aad6._aade, 
+h4._aacl._aacp._aacw._adda._aacx._aad6._aade, input._aauy.focus-visible, div._aacl._aacp._aacw._adda._aacx._aada._aade, h2._aacl._aacr._aact._aacx._aad6._aadb, div._aacl._aacp._aacw._adda._aacx._aada, span._aacl._aaco._aacu._aacx._aad7._aade, a.qi72231t.nu7423ey.n3hqoq4p.r86q59rh.b3qcqh3k.fq87ekyn.bdao358l.fsf7x5fv.rse6dlih.s5oniofx.m8h3af8h.l7ghb35v.kjdc1dyq.kmwttqpk.srn514ro.oxkhqvkx.rl78xhln.nch0832m.cr00lzj9.rn8ck1ys.s3jn8y49.icdlwmnq._acan._acao._acat._acaw._a6hd, a.qi72231t.nu7423ey.n3hqoq4p.r86q59rh.b3qcqh3k.fq87ekyn.bdao358l.fsf7x5fv.rse6dlih.s5oniofx.m8h3af8h.l7ghb35v.kjdc1dyq.kmwttqpk.srn514ro.oxkhqvkx.rl78xhln.nch0832m.cr00lzj9.rn8ck1ys.s3jn8y49.icdlwmnq._aaqk._a6hd, textarea._ablz._aaoc, span._ac-g, h3._aacl._aacq._aacw._adda._aacx._aad6, div div textarea, div._aamb._aamc._aamd, a.qi72231t.nu7423ey.n3hqoq4p.r86q59rh.b3qcqh3k.fq87ekyn.bdao358l.fsf7x5fv.rse6dlih.s5oniofx.m8h3af8h.l7ghb35v.kjdc1dyq.kmwttqpk.srn514ro.oxkhqvkx.rl78xhln.nch0832m.cr00lzj9.rn8ck1ys.s3jn8y49.icdlwmnq.notranslate._ac0s._a6hd, a div span, span._ac6e._ac6f._ac6h, h1._aacl._aacs._aact._aacx._aada, h4._aacl._aacp._aacw._adda._aacx._aad6, div._aacl._aaco._aacw._adda._aacx._aada, h1._aacl._aacs._aact._aacx._aad6, span._aacl._aaco._aacw._adda._aacx._aad7, a.qi72231t.nu7423ey.n3hqoq4p.r86q59rh.b3qcqh3k.fq87ekyn.bdao358l.fsf7x5fv.rse6dlih.s5oniofx.m8h3af8h.l7ghb35v.kjdc1dyq.kmwttqpk.srn514ro.oxkhqvkx.rl78xhln.nch0832m.cr00lzj9.rn8ck1ys.s3jn8y49.icdlwmnq.notranslate._acdj._a6hd, 
+div._aacl._aacn._aacw._adda._aad3._aad6, div._aacl._aacp._aacw._adda._aacx._aad6, div._aacl._aacp._aacu._aacx._aad6, div._ac7a, div._aamb._aamc  {
+  color: rgb(209, 209, 209);
+}
+
+/* remove smoke effect */
+div._aa62 {
+  background: none;
+}
+
+/* input colour */
+div._aaw8, input._aauy, div._aatk._aatn {
+  background: rgb(69, 69, 69)
+}
+
+/* remove black */
+div._ab8w._ab94._ab99._ab9f._ab9m._ab9p._ab9y._aba8._abch._abck._abcl._abcm, div._ab8w._ab94._ab99._ab9f._ab9m._ab9p._abaj._ab9y._aba8._abcf._abch._abcm, div._ab8w._ab94._ab99._ab9f._ab9m._ab9p._abak._ab9x._abcm {
+  background: none;
+}
+
+/* links */
+div._aacl._aaco._aacw._adda._aacx._aada._aade, div._aacl._aacn._aacw._adda._aad6, span._aaai, div._aacl._aacp._aacw._adda._aacz._aada._aade, a.qi72231t.nu7423ey.n3hqoq4p.r86q59rh.b3qcqh3k.fq87ekyn.bdao358l.fsf7x5fv.rse6dlih.s5oniofx.m8h3af8h.l7ghb35v.kjdc1dyq.kmwttqpk.srn514ro.oxkhqvkx.rl78xhln.nch0832m.cr00lzj9.rn8ck1ys.s3jn8y49.icdlwmnq.notranslate._a6hd, a.qi72231t.nu7423ey.n3hqoq4p.r86q59rh.b3qcqh3k.fq87ekyn.bdao358l.fsf7x5fv.rse6dlih.s5oniofx.m8h3af8h.l7ghb35v.kjdc1dyq.kmwttqpk.srn514ro.oxkhqvkx.rl78xhln.nch0832m.cr00lzj9.rn8ck1ys.s3jn8y49.icdlwmnq._aa9_._a6hd, span._aacl._aacn._aacw._adda._aacz._aad7._aade, div div a {
+  color: rgb(180, 0, 0);
+}
+
+/* Likes */ 
+div._aacl._aaco._aacw._adda._aacx._aada._aade {
+  color: rgb(209, 209, 209);
+}
+

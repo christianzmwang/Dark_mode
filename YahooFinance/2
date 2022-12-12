@@ -64,11 +64,6 @@ input, select, textarea
     display: none !important;
 }
  
-/** Adds margin at the top so it doesn't overlap after hiding ads **/
-/** Sometimes the margin Yahoo uses seems to change, so you may have to adjust this **/
-div.finance {
-    margin-top: 165px !important;
-}
  
 #YDC-UH {
     background-image: unset;

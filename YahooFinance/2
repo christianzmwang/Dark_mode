@@ -60,7 +60,7 @@ input, select, textarea
 #Col2-13-LinkOut-Proxy,
 #Col2-1-QuoteModule-Proxy,
 #Col2-5-LinkOut-Proxy,
-#Col2-4-LinkOut-Proxy {
+#Col2-4-LinkOut-Proxy, #mrt-node-Lead-0-Ad, #defaultLREC-sizer, #defaultLREC2-sizer {
     display: none !important;
 }
  
